@@ -1,1 +1,1 @@
-# Stndard-Calc
+# Standard-Calc
